@@ -116,7 +116,7 @@ const PDFModifier: React.FC = () => {
       a.click();
       URL.revokeObjectURL(url);
 
-      setToastMessage(`Modified resume saved as ${outputFileName}`);
+      setToastMessage(`Modified PDF saved as ${outputFileName}`);
       setToastSeverity("success");
     } catch (error) {
       console.error("Error merging PDFs:", error);
