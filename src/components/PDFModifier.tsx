@@ -64,7 +64,7 @@ const PDFModifier: React.FC = () => {
   const handleProcess = async () => {
     if (!jobPostingText.trim() || !resumeFile) {
       setToastMessage(
-        "Please paste the job posting text and upload the resume PDF.",
+        "Please paste the text and upload the PDF.",
       );
       setToastSeverity("error");
       return;
