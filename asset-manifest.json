@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/beat-ats/static/js/main.5bf9bb7d.js",
+    "main.js": "/beat-ats/static/js/main.1e1ccfb8.js",
     "static/js/453.cfc39868.chunk.js": "/beat-ats/static/js/453.cfc39868.chunk.js",
     "index.html": "/beat-ats/index.html",
-    "main.5bf9bb7d.js.map": "/beat-ats/static/js/main.5bf9bb7d.js.map",
+    "main.1e1ccfb8.js.map": "/beat-ats/static/js/main.1e1ccfb8.js.map",
     "453.cfc39868.chunk.js.map": "/beat-ats/static/js/453.cfc39868.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.5bf9bb7d.js"
+    "static/js/main.1e1ccfb8.js"
   ]
 }
