@@ -138,7 +138,7 @@ const PDFModifier: React.FC = () => {
       </Typography>
 
       <Typography sx={{ mb: 5, mt: 5 }}>
-        This tool is designed to overlay text on your resume & make it
+        This tool is designed to overlay text on a PDF & make it
         completely transparent to a human. However, a computer will still be
         able to read it. Use it for what you will...
       </Typography>
